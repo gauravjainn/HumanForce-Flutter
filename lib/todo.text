@@ -1,0 +1,4 @@
+PENDING -yellow
+DELIVERD -green
+NOT DELIVERD -red
+PROCESSING -blue
